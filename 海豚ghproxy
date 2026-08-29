@@ -19,7 +19,7 @@
       "key": "YK",
       "name": "🐬[追剧]优酷视频.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/优酷视频.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/优酷视频.py"
     },
     {
       "key": "TX",
@@ -32,7 +32,7 @@
       "key": "txvm",
       "name": "🐬[追剧]腾讯视频.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/腾讯视频.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/腾讯视频.py"
     },
     {
       "key": "MG",
@@ -45,645 +45,669 @@
       "key": "MGtv",
       "name": "🐬[追剧]芒果TV.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/芒果TV.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/芒果TV.py"
     },
     {
       "key": "腾爱优芒B",
       "name": "🐬[追剧]腾爱优芒B.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/腾爱优芒B🍀TG @hshsjk9.py",
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/腾爱优芒B🍀TG @hshsjk9.py",
       "changeable": 0
     },
     {
       "key": "youtube",
       "name": "🐬[其他]油管,py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/油管.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/油管.py"
     },
     {
       "key": "星梦Asmr",
       "name": "🐬[其他]星梦Asmr.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/星梦Asmr🍀TG @hshsjk9.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/星梦Asmr🍀TG @hshsjk9.py"
     },
     {
       "key": "ASMR吧",
       "name": "🐬[其他]ASMR吧.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/ASMR吧🍀TG @hshsjk9.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/ASMR吧🍀TG @hshsjk9.py"
+    },
+    {
+      "key": "首映网",
+      "name": "🐬[追剧]首映网.py(关梯)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/首映网🍀TG @hshsjk9.py"
+    },
+    {
+      "key": "剧下饭4K",
+      "name": "🐬[追剧]剧下饭4K.py",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/剧下饭4K🍀TG @hshsjk9.py"
+    },
+    {
+      "key": "兔岛影院",
+      "name": "🐬[追剧]兔岛影院.py",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/兔岛影院🍀TG @hshsjk9.py"
+    },
+    {
+      "key": "青牛影视",
+      "name": "🐬[追剧]青牛影视.py",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/青牛影视🍀TG @hshsjk9.py"
     },
     {
       "key": "山水影视",
       "name": "🐬[追剧]山水影视.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/山水影视🍀TG @hshsjk9.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/山水影视🍀TG @hshsjk9.py"
     },
     {
       "key": "搜剧AI",
       "name": "🐬[追剧]搜剧AI.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/搜剧AI🍀TG @hshsjk9.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/搜剧AI🍀TG @hshsjk9.py"
     },
     {
       "key": "厂长资源",
       "name": "🐬[追剧]厂长资源.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/厂长资源🍀TG @hshsjk9.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/厂长资源🍀TG @hshsjk9.py"
     },
     {
       "key": "多多影视",
       "name": "🐬[追剧]多多影视.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/多多影视🍀TG @hshsjk9.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/多多影视🍀TG @hshsjk9.py"
     },
     {
       "key": "飞流视频",
       "name": "🐬[追剧]飞流视频.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/飞流视频🍀TG @hshsjk9.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/飞流视频🍀TG @hshsjk9.py"
     },
     {
       "key": "好好看",
       "name": "🐬[追剧]好好看.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/好好看🍀TG @hshsjk9.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/好好看🍀TG @hshsjk9.py"
     },
     {
       "key": "VS影院",
       "name": "🐬[追剧]VS影院.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/VS影院🍀TG @hshsjk9.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/VS影院🍀TG @hshsjk9.py"
     },
     {
       "key": "EcoHub影视",
       "name": "🐬[追剧]EcoHub影视.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/EcoHub影视🍀TG @hshsjk9.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/EcoHub影视🍀TG @hshsjk9.py"
     },
     {
       "key": "电影侠",
       "name": "🐬[追剧]电影侠.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/电影侠🍀TG @hshsjk9.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/电影侠🍀TG @hshsjk9.py"
     },
     {
       "key": "影视大全",
       "name": "🐬[追剧]影视大全.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/影视大全🍀TG @hshsjk9.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/影视大全🍀TG @hshsjk9.py"
     },
     {
       "key": "一起影视",
       "name": "🐬[追剧]一起影视.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/一起影视🍀TG @hshsjk9.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/一起影视🍀TG @hshsjk9.py"
     },
     {
       "key": "仙腾影院",
       "name": "🐬[追剧]仙腾影院.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/仙腾影院🍀TG @hshsjk9.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/仙腾影院🍀TG @hshsjk9.py"
     },
     {
       "key": "看戏影视",
       "name": "🐬[追剧]看戏影视.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/看戏影视🍀TG @hshsjk9.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/看戏影视🍀TG @hshsjk9.py"
     },
     {
       "key": "百花影院",
       "name": "🐬[追剧]百花影院.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/百花影院🍀TG @hshsjk9.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/百花影院🍀TG @hshsjk9.py"
     },
     {
       "key": "VIP兔",
       "name": "🐬[追剧]VIP兔.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/VIP兔🍀TG @hshsjk9.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/VIP兔🍀TG @hshsjk9.py"
     },
     {
       "key": "刷不停短剧",
       "name": "🐬[追剧]刷不停短剧.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/刷不停短剧🍀TG @hshsjk9.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/刷不停短剧🍀TG @hshsjk9.py"
     },
     {
       "key": "飞快TV",
       "name": "🐬[追剧]飞快TV.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/飞快TV🍀TG @hshsjk9.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/飞快TV🍀TG @hshsjk9.py"
     },
     {
       "key": "Auete影视",
       "name": "🐬[追剧]Auete影视.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/Auete影视🍀TG @hshsjk9.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/Auete影视🍀TG @hshsjk9.py"
     },
     {
       "key": "大马猴",
       "name": "🐬[追剧]大马猴.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/大马猴🍀TG @hshsjk9.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/大马猴🍀TG @hshsjk9.py"
     },
     {
       "key": "pomo",
       "name": "🐬[追剧]pomo.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/pomo🍀TG @hshsjk9.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/pomo🍀TG @hshsjk9.py"
     },
     {
       "key": "FoFo影院",
       "name": "🐬[追剧]FoFo影院.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/FoFo影院🍀TG @hshsjk9.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/FoFo影院🍀TG @hshsjk9.py"
     },
     {
       "key": "66大片网",
       "name": "🐬[追剧]66大片网.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/66大片网🍀TG @hshsjk9.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/66大片网🍀TG @hshsjk9.py"
     },
     {
       "key": "泡泡影院",
       "name": "🐬[追剧]泡泡影院.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/泡泡影院🍀TG @hshsjk9.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/泡泡影院🍀TG @hshsjk9.py"
     },
     {
       "key": "楓林網",
       "name": "🐬[追剧]楓林網.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/楓林網🍀TG @hshsjk9.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/楓林網🍀TG @hshsjk9.py"
     },
     {
       "key": "草莓影视",
       "name": "🐬[追剧]草莓影视.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/草莓影视🍀TG @hshsjk9.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/草莓影视🍀TG @hshsjk9.py"
     },
     {
       "key": "八戒影视",
       "name": "🐬[追剧]八戒影视.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/八戒影视🍀TG @hshsjk9.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/八戒影视🍀TG @hshsjk9.py"
     },
     {
       "key": "30剧集网",
       "name": "🐬[追剧]30剧集网.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/30剧集网🍀TG @hshsjk9.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/30剧集网🍀TG @hshsjk9.py"
     },
     {
       "key": "宅男影视",
       "name": "🐬[追剧]宅男影视.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/宅男影视🍀TG @hshsjk9.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/宅男影视🍀TG @hshsjk9.py"
     },
     {
       "key": "看剧AI",
       "name": "🐬[追剧]看剧AI.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/看剧AI🍀TG @hshsjk9.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/看剧AI🍀TG @hshsjk9.py"
     },
     {
       "key": "高清点播",
       "name": "🐬[追剧]高清点播.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/高清点播🍀TG @hshsjk9.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/高清点播🍀TG @hshsjk9.py"
     },
     {
       "key": "vidhub",
       "name": "🐬[追剧]vidhub.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/vidhub🍀TG @hshsjk9.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/vidhub🍀TG @hshsjk9.py"
     },
     {
       "key": "枫叶4K",
       "name": "🐬[追剧]枫叶4K.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/枫叶4K.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/枫叶4K.py"
     },
     {
       "key": "追影",
       "name": "🐬[追剧]追影.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/追影.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/追影.py"
     },
     {
       "key": "网飞TV",
       "name": "🐬[追剧]网飞TV.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/网飞TV.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/网飞TV.py"
     },
     {
       "key": "厂长影视",
       "name": "🐬[追剧]厂长影视.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/厂长影视.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/厂长影视.py"
     },
     {
       "key": "FreeOK",
       "name": "🐬[追剧]FreeOK.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/FreeOK.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/FreeOK.py"
     },
     {
       "key": "真狼影视",
       "name": "🐬[追剧]真狼影视.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/真狼影视.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/真狼影视.py"
     },
     {
       "key": "初见影视",
       "name": "🐬[追剧]初见影视.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/初见影视.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/初见影视.py"
     },
     {
       "key": "好剧屋",
       "name": "🐬[追剧]好剧屋.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/好剧屋.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/好剧屋.py"
     },
     {
       "key": "奈非工厂",
       "name": "🐬[追剧]奈非工厂.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/奈非工厂.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/奈非工厂.py"
     },
     {
       "key": "视觉影院",
       "name": "🐬[追剧]视觉影院.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/视觉影院.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/视觉影院.py"
     },
     {
       "key": "袋鼠影视",
       "name": "🐬[追剧]袋鼠影视.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/袋鼠影视.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/袋鼠影视.py"
     },
     {
       "key": "4K影视",
       "name": "🐬[追剧]4K影视.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/4K影视.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/4K影视.py"
     },
     {
       "key": "蝶卡影视",
       "name": "🐬[追剧]蝶卡影视.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/蝶卡影视.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/蝶卡影视.py"
     },
     {
       "key": "ddyy",
       "name": "🐬[追剧]低端影视.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/低端影视.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/低端影视.py"
     },
     {
       "key": "cbh",
       "name": "🐬[追剧]茶杯狐.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/茶杯狐.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/茶杯狐.py"
     },
     {
       "key": "ppx",
       "name": "🐬[追剧]皮皮虾.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/皮皮虾.py",
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/皮皮虾.py",
       "ext": "http://43.248.117.123:4680"
     },
     {
       "key": "ddvm",
       "name": "🐬[追剧]嘀嗒影视.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/嘀嗒影视.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/嘀嗒影视.py"
     },
     {
       "key": "kkvm",
       "name": "🐬[追剧]可可影视.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/可可影视.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/可可影视.py"
     },
     {
       "key": "豆花影视",
       "name": "🐬[追剧]豆花影视.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/豆花影视.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/豆花影视.py"
     },
     {
       "key": "拾光影视",
       "name": "🐬[追剧]拾光影视.js",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/jar_js/拾光影视.js",
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/jar_js/拾光影视.js",
       "changeable": 0
     },
     {
       "key": "开心影院",
       "name": "🐬[追剧]开心影院.js",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/jar_js/开心影院.js",
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/jar_js/开心影院.js",
       "changeable": 0
     },
     {
       "key": "西瓜影视",
       "name": "🐬[追剧]西瓜影视.js",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/jar_js/西瓜影视.js",
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/jar_js/西瓜影视.js",
       "changeable": 0
     },
     {
       "key": "片库",
       "name": "🐬[追剧]片库.js(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/jar_js/片库.js",
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/jar_js/片库.js",
       "changeable": 0
     },
     {
       "key": "枫叶影院js",
       "name": "🐬[追剧]枫叶影院.js(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/jar_js/枫叶影院.js",
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/jar_js/枫叶影院.js",
       "changeable": 0
     },
     {
       "key": "枫叶影院",
       "name": "🐬[追剧]枫叶影院.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/枫叶影院🍀TG @hshsjk9.py",
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/枫叶影院🍀TG @hshsjk9.py",
       "changeable": 0
     },
     {
       "key": "qqvm",
       "name": "🐬[追剧]千千影视.py(关梯)(羊壳观看)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/千千影视.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/千千影视.py"
     },
     {
       "key": "808yr",
       "name": "🐬[追剧]808影院.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/808影院.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/808影院.py"
     },
     {
       "key": "gqc",
       "name": "🐬[追剧]共青春影院.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/共青春影院.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/共青春影院.py"
     },
     {
       "key": "qlys",
       "name": "🐬[追剧]麒麟影视.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/麒麟影视.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/麒麟影视.py"
     },
     {
       "key": "qdvm",
       "name": "🐬[追剧]奇点影视.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/奇点影视.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/奇点影视.py"
     },
     {
       "key": "zzvm",
       "name": "🐬[追剧]枝枝影视.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/枝枝影视.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/枝枝影视.py"
     },
     {
       "key": "knvm",
       "name": "🐬[追剧]柯南影视.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/柯南影视.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/柯南影视.py"
     },
     {
       "key": "teys",
       "name": "🐬[追剧]太乙影视.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/太乙影视.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/太乙影视.py"
     },
     {
       "key": "wkvm",
       "name": "🐬[追剧]悟空影视.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/悟空影视.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/悟空影视.py"
     },
     {
       "key": "xmvm",
       "name": "🐬[追剧]神马影视.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/神马影视.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/神马影视.py"
     },
     {
       "key": "hxq",
       "name": "🐬[追剧]韩小圈.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/韩小圈.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/韩小圈.py"
     },
     {
       "key": "美剧天堂",
       "name": "🐬[追剧]美剧天堂.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/美剧天堂.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/美剧天堂.py"
     },
     {
       "key": "ww",
       "name": "🐬[追剧]哇哇APP.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/哇哇APP.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/哇哇APP.py"
     },
     {
       "key": "rb",
       "name": "🐬[追剧]热播APP.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/热播APP.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/热播APP.py"
     },
     {
       "key": "JP",
       "name": "🐬[追剧]金牌APP.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/金牌APP.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/金牌APP.py"
     },
     {
       "key": "GZ",
       "name": "🐬[追剧]瓜子APP.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/瓜子APP.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/瓜子APP.py"
     },
     {
       "key": "nnyy",
       "name": "🐬[追剧]努努影院.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/努努影院.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/努努影院.py"
     },
     {
       "key": "dnyy",
       "name": "🐬[追剧]多瑙影院.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/多瑙影院.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/多瑙影院.py"
     },
     {
       "key": "nvm",
       "name": "🐬[追剧]泥视频.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/泥视频.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/泥视频.py"
     },
     {
       "key": "QU",
       "name": "🐬[追剧]奇优影院.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/奇优影院.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/奇优影院.py"
     },
     {
       "key": "yl",
       "name": "🐬[追剧]永乐视频.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/永乐视频.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/永乐视频.py"
     },
     {
       "key": "mtyy",
       "name": "🐬[追剧]麦田影院.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/麦田影院.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/麦田影院.py"
     },
     {
       "key": "58vy",
       "name": "🐬[追剧]58影视.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/58影视.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/58影视.py"
     },
     {
       "key": "sdvy",
       "name": "🐬[追剧]兄弟影视.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/兄弟影视.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/兄弟影视.py"
     },
     {
       "key": "jgvy",
       "name": "🐬[追剧]追光影视.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/追光影视.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/追光影视.py"
     },
     {
       "key": "ikbot",
       "name": "🐬[追剧]爱看机器人.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/爱看机器人.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/爱看机器人.py"
     },
     {
       "key": "jok",
       "name": "🐬[追剧]剧OK.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/剧OK.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/剧OK.py"
     },
     {
       "key": "xhvm",
       "name": "🐬[追剧]骚火影视.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/骚火影视.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/骚火影视.py"
     },
     {
       "key": "ayf",
       "name": "🐬[追剧]爱壹帆影视.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/爱壹帆.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/爱壹帆.py"
     },
     {
       "key": "MH",
       "name": "🐬[追剧]麻花影视.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/麻花影视.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/麻花影视.py"
     },
     {
       "key": "XH",
       "name": "🐬[追剧]星河影视.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/星河影视.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/星河影视.py"
     },
     {
       "key": "guanfeng",
       "name": "🐬[追剧]观风影视.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/观风影视.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/观风影视.py"
     },
     {
       "key": "SZ",
       "name": "🐬[追剧]山楂影视.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/山楂影视.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/山楂影视.py"
     },
     {
       "key": "qmvm",
       "name": "🐬[追剧]七猫影视.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/七猫影视.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/七猫影视.py"
     },
     {
       "key": "nmvm",
       "name": "🐬[追剧]农民影视.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/农民影视.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/农民影视.py"
     },
     {
       "key": "xc",
       "name": "🐬[追剧]星辰影院.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/星辰影院.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/星辰影院.py"
     },
     {
       "key": "hstv",
       "name": "🐬[追剧]华数TV.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/华数TV.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/华数TV.py"
     },
     {
       "key": "dttv",
       "name": "🐬[追剧]蛋挞TV.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/蛋挞TV.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/蛋挞TV.py"
     },
     {
       "key": "wstv",
       "name": "🐬[追剧]威视TV.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/威视TV.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/威视TV.py"
     },
     {
       "key": "dsys",
       "name": "🐬[追剧]毒舌影视.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/毒舌影视.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/毒舌影视.py"
     },
     {
       "key": "456dy",
       "name": "🐬[追剧]456电影网.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/456电影网.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/456电影网.py"
     },
     {
       "key": "qw",
       "name": "🐬[追剧]七味.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/七味.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/七味.py"
     },
     {
       "key": "8tdy",
       "name": "🐬[追剧]八天电影.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/八天电影.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/八天电影.py"
     },
     {
       "key": "ysxq",
       "name": "🐬[追剧]映像星球.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/映像星球.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/映像星球.py"
     },
     {
       "key": "cjjh",
       "name": "🐬[追剧]采集聚合.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/采集聚合.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/采集聚合.py"
     },
     {
       "key": "API_如意",
@@ -735,43 +759,43 @@
       "key": "动漫啦",
       "name": "🐬[动漫]动漫啦.py(羊壳观看)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/动漫啦.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/动漫啦.py"
     },
     {
       "key": "樱之空动漫",
       "name": "🐬[动漫]樱之空动漫.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/樱之空动漫🍀TG @hshsjk9.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/樱之空动漫🍀TG @hshsjk9.py"
     },
     {
       "key": "MiFun",
       "name": "🐬[动漫]MiFun动漫.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/MiFun动漫.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/MiFun动漫.py"
     },
     {
       "key": "动漫巴士",
       "name": "🐬[动漫]动漫巴士.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/动漫巴士.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/动漫巴士.py"
     },
     {
       "key": "青空次元",
       "name": "🐬[动漫]青空次元.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/青空次元🍀TG @hshsjk9.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/青空次元🍀TG @hshsjk9.py"
     },
     {
       "key": "共和国动漫",
       "name": "🐬[动漫]共和国动漫.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/共和国动漫🍀TG @hshsjk9.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/共和国动漫🍀TG @hshsjk9.py"
     },
     {
       "key": "短剧巴士",
       "name": "🐬[短剧]短剧巴士.py(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/短剧巴士.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/短剧巴士.py"
     },
     {
       "key": "cj_360资源",
@@ -796,43 +820,43 @@
       "key": "映刻短剧",
       "name": "🐬[短剧]映刻短剧.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/映刻短剧🍀TG @hshsjk9.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/映刻短剧🍀TG @hshsjk9.py"
     },
     {
       "key": "悟圣短剧",
       "name": "🐬[短剧]悟圣短剧.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/悟圣短剧.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/悟圣短剧.py"
     },
     {
       "key": "喜福网",
       "name": "🐬[短剧]喜福短剧.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/喜福短剧.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/喜福短剧.py"
     },
     {
       "key": "smdj",
       "name": "🐬[短剧]星芽短剧.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/星芽短剧.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/星芽短剧.py"
     },
     {
       "key": "hmjc",
       "name": "🐬[短剧]河马剧场.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/河马剧场.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/河马剧场.py"
     },
     {
       "key": "djjh",
       "name": "🐬[短剧]短剧聚合.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/短剧聚合.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/短剧聚合.py"
     },
     {
       "key": "糯米短剧",
       "name": "🐬[短剧]糯米短剧.py",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/糯米短剧.py"
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/糯米短剧.py"
     }
   ],
   "parses": [
