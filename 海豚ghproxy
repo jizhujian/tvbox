@@ -48,11 +48,16 @@
       "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/芒果TV.py"
     },
     {
+      "key": "腾爱优b站",
+      "name": "🐬[追剧]腾爱优b站.js",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin2/blob/main/jar_js/腾爱优b站.js"
+    },
+    {
       "key": "腾爱优芒B",
       "name": "🐬[追剧]腾爱优芒B.py",
       "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/腾爱优芒B🍀TG @hshsjk9.py",
-      "changeable": 0
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/腾爱优芒B🍀TG @hshsjk9.py"
     },
     {
       "key": "youtube",
@@ -71,6 +76,24 @@
       "name": "🐬[其他]ASMR吧.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/ASMR吧🍀TG @hshsjk9.py"
+    },
+    {
+      "key": "永乐视频",
+      "name": "🐬[追剧]永乐视频",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin2/blob/main/py/永乐视频.py"
+    },
+    {
+      "key": "夏日影院",
+      "name": "🐬[追剧]夏日影院.py",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin2/blob/main/py/夏日影院.py"
+    },
+    {
+      "key": "君念影院",
+      "name": "🐬[追剧]君念影院.py(关梯)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin2/blob/main/py/君念影院.py"
     },
     {
       "key": "首映网",
@@ -401,35 +424,35 @@
       "key": "拾光影视",
       "name": "🐬[追剧]拾光影视.js",
       "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/jar_js/拾光影视.js",
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin2/blob/main/jar_js/拾光影视.js",
       "changeable": 0
     },
     {
       "key": "开心影院",
       "name": "🐬[追剧]开心影院.js",
       "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/jar_js/开心影院.js",
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin2/blob/main/jar_js/开心影院.js",
       "changeable": 0
     },
     {
       "key": "西瓜影视",
       "name": "🐬[追剧]西瓜影视.js",
       "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/jar_js/西瓜影视.js",
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin2/blob/main/jar_js/西瓜影视.js",
       "changeable": 0
     },
     {
       "key": "片库",
       "name": "🐬[追剧]片库.js(关梯)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/jar_js/片库.js",
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin2/blob/main/jar_js/片库.js",
       "changeable": 0
     },
     {
       "key": "枫叶影院js",
       "name": "🐬[追剧]枫叶影院.js(关梯)",
       "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/jar_js/枫叶影院.js",
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin2/blob/main/jar_js/枫叶影院.js",
       "changeable": 0
     },
     {
@@ -630,12 +653,6 @@
       "name": "🐬[追剧]观风影视.py(关梯)",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/观风影视.py"
-    },
-    {
-      "key": "SZ",
-      "name": "🐬[追剧]山楂影视.py(关梯)",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/山楂影视.py"
     },
     {
       "key": "qmvm",
@@ -857,6 +874,24 @@
       "name": "🐬[短剧]糯米短剧.py",
       "type": 3,
       "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/糯米短剧.py"
+    },
+    {
+      "key": "毒舌短剧",
+      "name": "🐬[短剧]毒舌短剧.py(关梯)",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin/blob/main/py/毒舌短剧🍀TG @hshsjk9.py"
+    },
+    {
+      "key": "百度短剧",
+      "name": "🐬[短剧]百度短剧",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin2/blob/main/jar_js/百度短剧.js"
+    },
+    {
+      "key": "石榴短剧",
+      "name": "🐬[短剧]石榴短剧",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://github.com/jizhujian/dolphin2/blob/main/py/石榴短剧.py"
     }
   ],
   "parses": [

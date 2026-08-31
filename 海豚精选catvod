@@ -2,6 +2,12 @@
   "logo": "https://img.freepik.com/free-vector/cute-dolphin-swimming-cartoon-vector-icon-illustration-animal-nature-icon-isolated-flat-vector_138676-12582.jpg?semt=ais_hybrid&w=740&q=80",
   "sites": [
     {
+      "key": "腾爱优芒B",
+      "name": "🐬[追剧]腾爱优芒B.py",
+      "type": 3,
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/腾爱优芒B🍀TG @hshsjk9.py"
+    },
+    {
       "key": "多多影视",
       "name": "🐬[追剧]多多影视.py",
       "type": 3,
