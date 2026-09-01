@@ -2,16 +2,58 @@
   "logo": "https://img.freepik.com/free-vector/cute-dolphin-swimming-cartoon-vector-icon-illustration-animal-nature-icon-isolated-flat-vector_138676-12582.jpg?semt=ais_hybrid&w=740&q=80",
   "sites": [
     {
+      "key": "txvm",
+      "name": "🐬[追剧]腾讯视频.py",
+      "type": 3,
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/腾讯视频.py"
+    },
+    {
+      "key": "MGtv",
+      "name": "🐬[追剧]芒果TV.py",
+      "type": 3,
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/芒果TV.py"
+    },
+    {
       "key": "腾爱优芒B",
       "name": "🐬[追剧]腾爱优芒B.py",
       "type": 3,
       "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/腾爱优芒B🍀TG @hshsjk9.py"
     },
     {
+      "key": "永乐视频",
+      "name": "🐬[追剧]永乐视频",
+      "type": 3,
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/永乐视频.py"
+    },
+    {
       "key": "多多影视",
       "name": "🐬[追剧]多多影视.py",
       "type": 3,
       "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/多多影视🍀TG @hshsjk9.py"
+    },
+    {
+      "key": "百花影院",
+      "name": "🐬[追剧]百花影院.py(关梯)",
+      "type": 3,
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/百花影院🍀TG @hshsjk9.py"
+    },
+    {
+      "key": "草莓影视",
+      "name": "🐬[追剧]草莓影视.py(关梯)",
+      "type": 3,
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/草莓影视🍀TG @hshsjk9.py"
+    },
+    {
+      "key": "枫叶4K",
+      "name": "🐬[追剧]枫叶4K.py(关梯)",
+      "type": 3,
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/枫叶4K.py"
+    },
+    {
+      "key": "追影",
+      "name": "🐬[追剧]追影.py",
+      "type": 3,
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/追影.py"
     },
     {
       "key": "厂长影视",
@@ -27,10 +69,30 @@
       "ext": "http://43.248.117.123:4680"
     },
     {
-      "key": "ww",
-      "name": "🐬[追剧]哇哇APP.py(关梯)",
+      "key": "枫叶影院js",
+      "name": "🐬[追剧]枫叶影院.js(关梯)",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/哇哇APP.py"
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/jar_js/枫叶影院.js",
+      "changeable": 0
+    },
+    {
+      "key": "枫叶影院",
+      "name": "🐬[追剧]枫叶影院.py(关梯)",
+      "type": 3,
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/枫叶影院🍀TG @hshsjk9.py",
+      "changeable": 0
+    },
+    {
+      "key": "qlys",
+      "name": "🐬[追剧]麒麟影视.py",
+      "type": 3,
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/麒麟影视.py"
+    },
+    {
+      "key": "hxq",
+      "name": "🐬[追剧]韩小圈.py(关梯)",
+      "type": 3,
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/韩小圈.py"
     },
     {
       "key": "rb",
@@ -51,10 +113,28 @@
       "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/瓜子APP.py"
     },
     {
+      "key": "ikbot",
+      "name": "🐬[追剧]爱看机器人.py",
+      "type": 3,
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/爱看机器人.py"
+    },
+    {
+      "key": "guanfeng",
+      "name": "🐬[追剧]观风影视.py(关梯)",
+      "type": 3,
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/观风影视.py"
+    },
+    {
       "key": "nmvm",
       "name": "🐬[追剧]农民影视.py",
       "type": 3,
       "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/农民影视.py"
+    },
+    {
+      "key": "hstv",
+      "name": "🐬[追剧]华数TV.py(关梯)",
+      "type": 3,
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/华数TV.py"
     }
   ],
   "parses": [
