@@ -124,6 +124,12 @@
       "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/热播APP.py"
     },
     {
+      "key": "GZ",
+      "name": "🐬[追剧]瓜子APP.py",
+      "type": 3,
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/瓜子APP.py"
+    },
+    {
       "key": "ikbot",
       "name": "🐬[追剧]爱看机器人.py",
       "type": 3,
