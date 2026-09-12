@@ -2,46 +2,58 @@
   "logo": "https://img.freepik.com/free-vector/cute-dolphin-swimming-cartoon-vector-icon-illustration-animal-nature-icon-isolated-flat-vector_138676-12582.jpg?semt=ais_hybrid&w=740&q=80",
   "sites": [
     {
+      "key": "豆瓣",
+      "name": "豆瓣",
+      "type": 3,
+      "api": "./py/豆瓣.py"
+    },
+    {
+      "key": "auete影视",
+      "name": "auete影视",
+      "type": 3,
+      "api": "./py/auete影视.py"
+    },
+    {
       "key": "爱奇艺",
       "name": "爱奇艺",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/爱奇艺.py"
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/爱奇艺.py"
     },
     {
       "key": "优酷视频",
       "name": "优酷视频",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/优酷视频.py"
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/优酷视频.py"
     },
     {
       "key": "腾讯视频",
       "name": "腾讯视频",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/腾讯视频.py"
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/腾讯视频.py"
     },
     {
       "key": "芒果TV",
       "name": "芒果TV",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/芒果TV.py"
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/芒果TV.py"
     },
     {
       "key": "腾爱优芒B",
       "name": "腾爱优芒B",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/腾爱优芒B🍀TG @hshsjk9.py"
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/腾爱优芒B.py"
     },
     {
       "key": "开端影视",
       "name": "开端影视",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/开端影视.py"
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/开端影视.py"
     },
     {
       "key": "白洋影院",
       "name": "白洋影院",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/白洋影院.py"
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/白洋影院.py"
     },
     {
       "key": "云朵影视",
@@ -67,7 +79,7 @@
       "type": 3,
       "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/6080新视觉.py"
     },
-   {
+    {
       "key": "CNFLIX",
       "name": "CNFLIX",
       "type": 3,
@@ -89,93 +101,93 @@
       "key": "多多影视",
       "name": "多多影视",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/多多影视🍀TG @hshsjk9.py"
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/多多影视.py"
     },
     {
       "key": "百花影院",
       "name": "百花影院",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/百花影院🍀TG @hshsjk9.py"
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/百花影院.py"
     },
     {
       "key": "草莓影视",
       "name": "草莓影视",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/草莓影视🍀TG @hshsjk9.py"
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/草莓影视.py"
     },
     {
       "key": "追影",
       "name": "追影",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/追影.py"
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/追影.py"
     },
     {
       "key": "厂长影视",
       "name": "厂长影视",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/厂长影视.py"
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/厂长影视.py"
     },
     {
       "key": "皮皮虾",
       "name": "皮皮虾",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/皮皮虾.py",
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/皮皮虾.py",
       "ext": "http://43.248.117.123:4680"
     },
     {
       "key": "枫叶影院",
       "name": "枫叶影院",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/枫叶影院🍀TG @hshsjk9.py",
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/枫叶影院.py",
       "changeable": 0
     },
     {
       "key": "麒麟影视",
       "name": "麒麟影视",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/麒麟影视.py"
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/麒麟影视.py"
     },
     {
       "key": "韩小圈",
       "name": "韩小圈",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/韩小圈.py"
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/韩小圈.py"
     },
     {
       "key": "热播APP",
       "name": "热播APP",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/热播APP.py"
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/热播APP.py"
     },
     {
       "key": "瓜子APP",
       "name": "瓜子APP",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/瓜子APP.py"
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/瓜子APP.py"
     },
     {
       "key": "爱看机器人",
       "name": "爱看机器人",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/爱看机器人.py"
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/爱看机器人.py"
     },
     {
       "key": "观风影视",
       "name": "观风影视",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/观风影视.py"
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/观风影视.py"
     },
     {
       "key": "农民影视",
       "name": "农民影视",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/农民影视.py"
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/农民影视.py"
     },
     {
       "key": "华数TV",
       "name": "华数TV",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin/blob/main/py/华数TV.py"
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/华数TV.py"
     }
   ],
   "parses": [
