@@ -8,12 +8,6 @@
       "api": "./py/豆瓣.py"
     },
     {
-      "key": "auete影视",
-      "name": "auete影视",
-      "type": 3,
-      "api": "./py/auete影视.py"
-    },
-    {
       "key": "爱奇艺",
       "name": "爱奇艺",
       "type": 3,
