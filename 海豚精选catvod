@@ -5,7 +5,8 @@
       "key": "豆瓣",
       "name": "豆瓣",
       "type": 3,
-      "api": "./py/豆瓣.py"
+      "api": "./py/豆瓣.py",
+      "indexs": 1
     },
     {
       "key": "爱奇艺",
@@ -108,8 +109,7 @@
       "key": "枫叶影院",
       "name": "枫叶影院",
       "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/枫叶影院.py",
-      "changeable": 0
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/枫叶影院.py"
     },
     {
       "key": "麒麟影视",
