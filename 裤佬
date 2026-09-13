@@ -19,20 +19,20 @@
       "key": "裤佬瓜子影视",
       "name": "👖裤佬丨瓜子丨影视",
       "type": 3,
-      "api": "https://dogpan.com/f/66V8Hy/瓜子影视.py"
+      "api": "./py/瓜子影视.py"
     },
     {
       "key": "腾优爱芒B",
       "name": "👖裤佬丨APP丨影视",
       "type": 3,
-      "api": "https://mpimg.cn/down.php/d40402848cc35e9f2fa1351557f2af1c.js",
+      "api": "./js/腾爱优b站.js",
       "changeable": 0
     },
     {
       "key": "裤佬山楂影视",
       "name": "👖裤佬丨山楂丨影视",
       "type": 3,
-      "api": "https://dogpan.com/f/vgJxhA/山楂影视.py",
+      "api": "./py/山楂影视.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -43,15 +43,15 @@
       "key": "裤佬6080影视",
       "name": "👖裤佬丨6080丨影视",
       "type": 3,
-      "api": "https://dogpan.com/f/583DF6/6080影视.py"
+      "api": "./py/6080影视.py"
     },
     {
       "key": "裤佬葫芦影视",
       "name": "👖裤佬丨葫芦丨影视",
       "type": 3,
-      "api": "https://dogpan.com/f/8qY6fY/葫芦影视.js",
+      "api": "./js/葫芦影视.js",
       "ext": {
-        "host": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/main/JS/maccos_config.txt",
+        "host": "./js/葫芦影视.txt",
         "key": "8R33VQSxzmCaHpEX",
         "init": "V122",
         "api": 2,
@@ -59,28 +59,17 @@
       }
     },
     {
-      "key": "裤佬人人影视",
-      "name": "👖裤佬丨人人丨影视",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/api/refs/heads/main/JS/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/6/refs/heads/main/JS/分享双人.js"
-    },
-    {
       "key": "裤佬V5影视",
       "name": "👖裤佬丨V5丨影视",
       "type": 3,
-      "api": "https://dogpan.com/f/98X1c2/V5影视.py",
+      "api": "./py/V5影视.py",
       "ext": "http://43.248.117.123:4680"
     },
     {
       "key": "裤佬文才影视",
       "name": "👖裤佬丨文才丨影视",
       "type": 3,
-      "api": "https://dogpan.com/f/0g38tm/文才影视.py",
+      "api": "./py/文才影视.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -93,7 +82,7 @@
       "key": "裤佬热播影视",
       "name": "👖裤佬丨热播丨影视",
       "type": 3,
-      "api": "https://dogpan.com/f/g5XntG/热播影视.py",
+      "api": "./py/热播影视.py",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
@@ -101,19 +90,10 @@
       "timeout": 60
     },
     {
-      "key": "裤佬哔哩影视",
-      "name": "👖裤佬丨哔哩丨影视",
-      "type": 3,
-      "api": "https://dogpan.com/f/j2J8SR/哔哩影视.py",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 1
-    },
-    {
       "key": "裤佬哇哇影视",
       "name": "👖裤佬丨哇哇丨影视",
       "type": 3,
-      "api": "https://dogpan.com/f/k5MoC5/哇哇影视.py",
+      "api": "./py/哇哇影视.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -123,25 +103,25 @@
       "key": "裤佬太乙影视",
       "name": "👖裤佬丨太乙丨影视",
       "type": 3,
-      "api": "https://dogpan.com/f/MjmESz/太乙影视.py"
+      "api": "./py/太乙影视.py"
     },
     {
       "key": "裤佬多瑙影视",
       "name": "👖裤佬丨多瑙丨影视",
       "type": 3,
-      "api": "https://dogpan.com/f/Nxn7Ij/多瑙影视.py"
+      "api": "./py/多瑙影视.py"
     },
     {
       "key": "裤佬泥巴影视",
       "name": "👖裤佬丨泥巴丨影视",
       "type": 3,
-      "api": "https://dogpan.com/f/P1prh3/泥巴影视.py"
+      "api": "./py/泥巴影视.py"
     },
     {
       "key": "裤佬华数影视",
       "name": "👖裤佬丨华数丨影视",
       "type": 3,
-      "api": "https://dogpan.com/f/lO6vIX/华数影视.py",
+      "api": "./py/华数影视.py",
       "changeable": 1
     },
     {
@@ -154,32 +134,16 @@
       "filterable": 1
     },
     {
-      "key": "裤佬网易影视",
-      "name": "👖裤佬丨网易丨影视",
-      "type": 3,
-      "api": "https://wget.la/https://raw.githubusercontent.com/qist/tvbox/master/lib/drpy2.min.js",
-      "changeable": 0,
-      "ext": "https://wget.la/https://raw.githubusercontent.com/qist/tvbox/master/js/网易公版影像.js"
-    },
-    {
       "key": "裤佬独播JS",
       "name": "👖裤佬丨独播丨JS",
       "type": 3,
-      "api": "https://dogpan.com/f/mwX7uW/独播影视.js"
-    },
-    {
-      "key": "裤佬酷六JS",
-      "name": "👖裤佬丨酷六丨JS",
-      "type": 3,
-      "api": "https://wget.la/https://raw.githubusercontent.com/qist/tvbox/master/lib/drpy2.min.js",
-      "changeable": 0,
-      "ext": "https://wget.la/https://raw.githubusercontent.com/qist/tvbox/master/js/酷6网.js"
+      "api": "./js/独播库.js"
     },
     {
       "key": "裤佬EmbyJS",
       "name": "👖裤佬丨Emby丨JS",
       "type": 3,
-      "api": "https://dogpan.com/f/nZJNfm/emby影视.js",
+      "api": "./js/emby影视.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0
@@ -188,7 +152,7 @@
       "key": "裤佬荐片JS",
       "name": "👖裤佬丨荐片丨JS",
       "type": 3,
-      "api": "https://dogpan.com/f/oYJ7tv/荐片影视.js",
+      "api": "./js/荐片影视.js",
       "style": {
         "type": "rect",
         "ratio": 1.33
@@ -199,7 +163,7 @@
       "key": "裤佬永乐JS",
       "name": "👖裤佬丨永乐丨JS",
       "type": 3,
-      "api": "https://dogpan.com/f/qj8LIX/永乐影视.js",
+      "api": "./js/永乐影视.js",
       "style": {
         "type": "rect",
         "ratio": 1.33
@@ -209,7 +173,7 @@
     {
       "key": "裤佬猎手PY",
       "name": "👖裤佬丨猎手丨PY",
-      "api": "https://dogpan.com/f/AnOxfE/猎手影视.py",
+      "api": "./py/猎手影视.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -218,7 +182,7 @@
     {
       "key": "裤佬芒果PY",
       "name": "👖裤佬丨芒果丨PY",
-      "api": "https://dogpan.com/f/BgEjF8/芒果影视.py",
+      "api": "./py/芒果影视.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -227,7 +191,7 @@
     {
       "key": "裤佬兄弟PY",
       "name": "👖裤佬丨兄弟丨PY",
-      "api": "https://dogpan.com/f/DREoi3/兄弟影视.py",
+      "api": "./py/兄弟影视.py",
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
@@ -236,9 +200,109 @@
   ],
   "parses": [
     {
-      "name": "虾米",
+      "name": "盘古",
       "type": 0,
-      "url": "https://jx.xmflv.com/?url=",
+      "url": "https://www.playm3u8.cn/jiexi.php?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "789解析1",
+      "type": 0,
+      "url": "https://jiexi.789jiexi.icu:4433/?url="
+    },
+    {
+      "name": "789解析2",
+      "type": 0,
+      "url": "https://jiexi.789jiexi.com/?url="
+    },
+    {
+      "name": "虾米解析",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
+    },
+    {
+      "name": "淘片解析",
+      "type": 0,
+      "url": "https://jx.yparse.com/index.php?url="
+    },
+    {
+      "name": "解析1",
+      "type": 0,
+      "url": "https://huayong.net/999/?v="
+    },
+    {
+      "name": "解析2",
+      "type": 0,
+      "url": "https://jx.m3u8.tv/jiexi/?url="
+    },
+    {
+      "name": "解析3",
+      "type": 0,
+      "url": "https://t2.qlplayer.cyou/player/analysis.php?v="
+    },
+    {
+      "name": "解析4",
+      "type": 0,
+      "url": "https://www.ckplayer.vip/jiexi/?url="
+    },
+    {
+      "name": "解析5",
+      "type": 0,
+      "url": "https://nm.xxxc137.top/static/player/artplayer.html?url="
+    },
+    {
+      "name": "解析6",
+      "type": 0,
+      "url": "https://www.yemu.xyz/?url="
+    },
+    {
+      "name": "冰豆",
+      "type": 0,
+      "url": "https://bd.jx.cn/?url="
+    },
+    {
+      "name": "爱酷",
+      "type": 0,
+      "url": "https://jx.zhanlangbu.com/?url="
+    },
+    {
+      "name": "云解析",
+      "type": 0,
+      "url": "https://jx.yparse.com/index.php?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "777",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "-剖云-",
+      "type": 0,
+      "url": "https://www.kkvip2022.com/vip/jiexi1/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "-全看-",
+      "type": 0,
+      "url": "https://jx.quankan.app/?url=",
       "ext": {
         "header": {
           "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
@@ -266,39 +330,9 @@
       }
     },
     {
-      "name": "淘片",
-      "type": 0,
-      "url": "https://jx.yparse.com/index.php?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-        }
-      }
-    },
-    {
-      "name": "冰豆",
-      "type": 0,
-      "url": "https://bd.jx.cn/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-        }
-      }
-    },
-    {
       "name": "七七",
       "type": 0,
       "url": "https://jx.77flv.cc/?url=",
-      "ext": {
-        "header": {
-          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
-        }
-      }
-    },
-    {
-      "name": "盘古",
-      "type": 0,
-      "url": "https://www.playm3u8.cn/jiexi.php?url=",
       "ext": {
         "header": {
           "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
