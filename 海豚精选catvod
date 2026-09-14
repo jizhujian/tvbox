@@ -51,6 +51,12 @@
       "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/白洋影院.py"
     },
     {
+      "key": "橘汁视频",
+      "name": "🐬[追剧]橘汁视频",
+      "type": 3,
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/橘汁视频.py"
+    },
+    {
       "key": "华谊影视",
       "name": "华谊影视",
       "type": 3,
