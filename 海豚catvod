@@ -77,6 +77,42 @@
       "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/ASMR吧.py"
     },
     {
+      "key": "独播库",
+      "name": "🐬[追剧]独播库",
+      "type": 3,
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/独播库.py"
+    },
+    {
+      "key": "网飞猫影视",
+      "name": "🐬[追剧]网飞猫影视(关梯)",
+      "type": 3,
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/网飞猫影视(关梯).py"
+    },
+    {
+      "key": "ZIP0影视",
+      "name": "🐬[追剧]ZIP0影视",
+      "type": 3,
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/ZIP0影视.py"
+    },
+    {
+      "key": "饭搭子影视",
+      "name": "🐬[追剧]饭搭子影视",
+      "type": 3,
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/饭搭子影视.py"
+    },
+    {
+      "key": "无极电影网",
+      "name": "🐬[追剧]无极电影网(关梯)",
+      "type": 3,
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/无极电影网(关梯).py"
+    },
+    {
+      "key": "55影院",
+      "name": "🐬[追剧]55影院(关梯)",
+      "type": 3,
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/55影院(关梯).py"
+    },
+    {
       "key": "开端影视",
       "name": "🐬[追剧]开端影视",
       "type": 3,
@@ -554,6 +590,13 @@
     },
     {
       "key": "开心影院",
+      "name": "🐬[追剧]开心影院.py",
+      "type": 3,
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/开心影院.py",
+      "changeable": 0
+    },
+    {
+      "key": "开心影院js",
       "name": "🐬[追剧]开心影院.js",
       "type": 3,
       "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/jar_js/开心影院.js",
@@ -700,12 +743,6 @@
       "name": "🐬[追剧]奇优影院.py",
       "type": 3,
       "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/奇优影院.py"
-    },
-    {
-      "key": "yl",
-      "name": "🐬[追剧]永乐视频.py",
-      "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/永乐视频.py"
     },
     {
       "key": "mtyy",
@@ -964,6 +1001,12 @@
       "name": "🐬[动漫]共和国动漫.py(关梯)",
       "type": 3,
       "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/共和国动漫.py"
+    },
+    {
+      "key": "黑猫动漫",
+      "name": "🐬[动漫]黑猫动漫",
+      "type": 3,
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/黑猫动漫.py"
     },
     {
       "key": "短剧巴士",
@@ -1245,6 +1288,46 @@
       "name": "-全看-",
       "type": 0,
       "url": "https://jx.quankan.app/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "云解",
+      "type": 0,
+      "url": "https://yparse.ik9.cc/index.php?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "咸鱼",
+      "type": 0,
+      "url": "https://jx.xymp4.cc/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "七七",
+      "type": 0,
+      "url": "https://jx.77flv.cc/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
+        }
+      }
+    },
+    {
+      "name": "夜幕",
+      "type": 0,
+      "url": "https://yemu.xyz/?url=",
       "ext": {
         "header": {
           "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"
