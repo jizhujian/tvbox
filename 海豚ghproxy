@@ -77,6 +77,72 @@
       "api": "https://gh-proxy.org/https://github.com/jizhujian/dolphin2/blob/main/py/ASMR吧.py"
     },
     {
+      "key": "飞牛影视",
+      "name": "🐬[追剧]飞牛影视(关梯)",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://github.com/jizhujian/dolphin2/blob/main/py/飞牛影视.py"
+    },
+    {
+      "key": "追剧达人",
+      "name": "🐬[追剧]追剧达人",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://github.com/jizhujian/dolphin2/blob/main/py/追剧达人.py"
+    },
+    {
+      "key": "未来影院",
+      "name": "🐬[追剧]未来影院(关梯)",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://github.com/jizhujian/dolphin2/blob/main/py/未来影院(关梯).py"
+    },
+    {
+      "key": "大白鲨影院",
+      "name": "🐬[追剧]大白鲨影院",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://github.com/jizhujian/dolphin2/blob/main/py/大白鲨影院.py"
+    },
+    {
+      "key": "咸鱼影视",
+      "name": "🐬[追剧]咸鱼影视",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://github.com/jizhujian/dolphin2/blob/main/py/咸鱼影视.py"
+    },
+    {
+      "key": "1234影视",
+      "name": "🐬[追剧]1234影视",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://github.com/jizhujian/dolphin2/blob/main/py/1234影视.py"
+    },
+    {
+      "key": "LIBVIO",
+      "name": "🐬[追剧]LIBVIO",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://github.com/jizhujian/dolphin2/blob/main/py/LIBVIO.py"
+    },
+    {
+      "key": "咕噜咕噜",
+      "name": "🐬[追剧]咕噜咕噜",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://github.com/jizhujian/dolphin2/blob/main/py/咕噜咕噜.py"
+    },
+    {
+      "key": "ik4k影院",
+      "name": "🐬[追剧]ik4k影院(关梯)",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://github.com/jizhujian/dolphin2/blob/main/py/ik4k影院.py"
+    },
+    {
+      "key": "魔法影视",
+      "name": "🐬[追剧]魔法影视",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://github.com/jizhujian/dolphin2/blob/main/py/魔法影视.py"
+    },
+    {
+      "key": "云朵视频",
+      "name": "🐬[追剧]云朵视频(关梯)",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://github.com/jizhujian/dolphin2/blob/main/py/云朵视频(关梯).py"
+    },
+    {
       "key": "独播库",
       "name": "🐬[追剧]独播库",
       "type": 3,
@@ -147,12 +213,6 @@
       "name": "🐬[追剧]第七影院",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/jizhujian/dolphin2/blob/main/py/第七影院.py"
-    },
-    {
-      "key": "云朵影视",
-      "name": "🐬[追剧]云朵影视",
-      "type": 3,
-      "api": "https://gh-proxy.org/https://github.com/jizhujian/dolphin2/blob/main/py/云朵影视.py"
     },
     {
       "key": "橘汁视频",
@@ -1032,6 +1092,12 @@
         "女频恋爱",
         "成长逆袭"
       ]
+    },
+    {
+      "key": "红豆短剧",
+      "name": "🐬[短剧]红豆短剧.py",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://github.com/jizhujian/dolphin2/blob/main/py/红豆短剧.py"
     },
     {
       "key": "映刻短剧",
