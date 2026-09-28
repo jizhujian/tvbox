@@ -81,28 +81,10 @@
       "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/华数TV.py"
     },
     {
-      "key": "网飞猫影视",
-      "name": "网飞猫影视",
-      "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/网飞猫影视(关梯).py"
-    },
-    {
-      "key": "ZIP0影视",
-      "name": "ZIP0影视",
-      "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/ZIP0影视.py"
-    },
-    {
       "key": "饭搭子影视",
       "name": "饭搭子影视",
       "type": 3,
       "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/饭搭子影视.py"
-    },
-    {
-      "key": "白洋影院",
-      "name": "白洋影院",
-      "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/白洋影院.py"
     },
     {
       "key": "华谊影视",
@@ -127,12 +109,6 @@
       "name": "热播APP",
       "type": 3,
       "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/热播APP.py"
-    },
-    {
-      "key": "爱看机器人",
-      "name": "爱看机器人",
-      "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/爱看机器人.py"
     },
     {
       "key": "农民影视",
