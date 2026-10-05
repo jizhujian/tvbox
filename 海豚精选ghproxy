@@ -51,6 +51,24 @@
       "api": "https://gh-proxy.org/https://github.com/jizhujian/dolphin2/blob/main/py/追影.py"
     },
     {
+      "key": "洛雪TV",
+      "name": "洛雪TV",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://github.com/jizhujian/dolphin2/blob/main/py/洛雪TV.py"
+    },
+    {
+      "key": "人人视频",
+      "name": "人人视频",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://github.com/jizhujian/dolphin2/blob/main/py/人人视频.py"
+    },
+    {
+      "key": "绿色影视",
+      "name": "绿色影视",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://github.com/jizhujian/dolphin2/blob/main/py/绿色影视.py"
+    },
+    {
       "key": "厂长影视",
       "name": "厂长影视",
       "type": 3,
@@ -115,6 +133,22 @@
       "name": "农民影视",
       "type": 3,
       "api": "https://gh-proxy.org/https://github.com/jizhujian/dolphin2/blob/main/py/农民影视.py"
+    },
+    {
+      "key": "央视频直播",
+      "name": "央视频直播",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://github.com/jizhujian/dolphin2/blob/main/py/央视频.py",
+      "searchable": 0,
+      "changeable": 0
+    },
+    {
+      "key": "咖啡体育直播",
+      "name": "咖啡体育直播",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://github.com/jizhujian/dolphin2/blob/main/py/咖啡直播.py",
+      "searchable": 0,
+      "changeable": 0
     }
   ]
 }
