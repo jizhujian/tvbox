@@ -21,6 +21,12 @@
       "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/金牌APP.py"
     },
     {
+      "key": "橘汁视频",
+      "name": "橘汁视频",
+      "type": 3,
+      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/橘汁视频.py"
+    },
+    {
       "key": "枫叶影院",
       "name": "枫叶影院",
       "type": 3,
