@@ -135,79 +135,11 @@
       "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/PTT线上看.py"
     },
     {
-      "key": "短剧巴士",
-      "name": "短剧巴士",
-      "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/短剧巴士.py"
-    },
-    {
-      "key": "七星短剧",
-      "name": "七星短剧",
-      "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/七星短剧.py"
-    },
-    {
-      "key": "红果短剧",
-      "name": "红果短剧",
-      "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/红果短剧.py"
-    },
-    {
-      "key": "悟圣短剧",
-      "name": "悟圣短剧",
-      "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/悟圣短剧.py"
-    },
-    {
-      "key": "喜福短剧",
-      "name": "喜福短剧",
-      "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/喜福短剧.py"
-    },
-    {
-      "key": "星芽短剧",
-      "name": "星芽短剧",
-      "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/星芽短剧.py"
-    },
-    {
-      "key": "河马短剧",
-      "name": "河马短剧",
-      "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/河马剧场.py"
-    },
-    {
-      "key": "毒舌短剧",
-      "name": "毒舌短剧",
-      "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/毒舌短剧.py"
-    },
-    {
-      "key": "短剧大全",
-      "name": "短剧大全",
-      "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/短剧大全.py"
-    },
-    {
-      "key": "央视频直播",
-      "name": "央视频直播",
-      "type": 3,
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/央视频.py",
-      "searchable": 0
-    },
-    {
       "key": "咖啡体育直播",
       "name": "咖啡体育直播",
       "type": 3,
       "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/咖啡直播.py",
       "searchable": 0
-    }
-  ],
-  "lives": [
-    {
-      "name": "央视频",
-      "api": "https://github.catvod.com/https://github.com/jizhujian/dolphin2/blob/main/py/央视频.py",
-      "ext": {}
     }
   ]
 }
